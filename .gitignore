@@ -1,0 +1,7 @@
+# Ignore object files, binary files, and temporary files
+*.o
+*.out
+*.exe
+
+# Ignore temporary files
+*.tmp
