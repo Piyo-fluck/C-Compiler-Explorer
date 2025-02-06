@@ -5,5 +5,7 @@
 
 # Ignore temporary files
 *.tmp
+
+# Ignore some document files
 *.md
 *.typ
